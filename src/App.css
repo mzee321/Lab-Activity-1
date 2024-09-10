@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+.centered-heading {
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  font-size: 2rem; /* Adjust the size as needed */
+  font-weight: 700; /* Use bold weight for the heading */
+  color: #333; /* Choose a color that contrasts well with your background */
+  margin-bottom: 20px; /* Adjust margin as needed */
+}
+
+.centered-headinz {
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  font-size: 1rem; /* Adjust the size as needed */
+  font-weight: 700; /* Use bold weight for the heading */
+  color: #333; /* Choose a color that contrasts well with your background */
+  margin-bottom: 20px; /* Adjust margin as needed */
+}
